@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World!";
-echo "Thank you Ravi!";
+echo "Hello from vijaya";
 ?>
 
 </body>
